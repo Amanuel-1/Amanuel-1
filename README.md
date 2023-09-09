@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👨‍💻 Computer Science student at Addis Ababa University<br>    💡 Enthusiast and smart worker, not just a hard worker<br>    🌟 Skilled in graphics, competitive programming, and UX/UI<br>    🚀 Backend development with React<br>    🔎 Currently searching for job opportunities<br>    😄 Fun fact: "Debugging is like being the detective in a crime movie where you're also the murderer."<br>
+<br>    👨‍💻 Computer Science student at Addis Ababa University<br>    💡 Enthusiast and smart worker, not just a hard worker<br>    🌟 Skilled in graphics, competitive programming, and UX/UI<br>    🚀 Backend development with Express,Nextjs<br>    🔎 Currently searching for job opportunities<br>    😄 Fun fact: "Debugging is like being the detective in a crime movie where you're also the murderer."<br>
 
 
 ## 🌐 Socials:
