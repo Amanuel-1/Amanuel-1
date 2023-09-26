@@ -1,5 +1,6 @@
-# 💫 About Me:
-<br>    👨‍💻 Computer Science student at Addis Ababa University<br>    💡 Enthusiast and smart worker, not just a hard worker<br>    🌟 Skilled in graphics, competitive programming, and UX/UI<br>    🚀 Backend development with Express,Nextjs<br>    🔎 Currently searching for job opportunities<br>    😄 Fun fact: "Debugging is like being the detective in a crime movie where you're also the murderer."<br>
+# Hi, I'm Amanuel Garomsa
+
+This is Amanuel Garomsa, a motivated inthusiastic Software Developer . I am currently Studying BSC in Computer Science at Addis Ababa University. I have an proficient experience in web developement and windows software developement. I am currently looking for Internships and other collaborative team that value innovation and continious developement .
 
 
 ## 🌐 Socials:
