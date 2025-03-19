@@ -1,6 +1,6 @@
 # Hi, I'm Amanuel Garomsa
 
-This is Amanuel Garomsa, a motivated inthusiastic Software Developer . I am currently Studying BSC in Computer Science at Addis Ababa University. I have an proficient experience in web developement and windows software developement. I am currently looking for Internships and other collaborative team that value innovation and continious developement .
+This is Amanuel Garomsa: I create web apps .  I have an proficient experience in web developement and windows software developement. I am currently looking for Internships and other collaborative team that value innovation and continious developement .
 
   Check my [website](https://www.zeamani.com)  |  Download my [resume](https://docs.google.com/uc?export=download&id=10qdIFWepKTKb8dww6NyDEdK56JSG4MHj)
 
